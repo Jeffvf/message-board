@@ -1,14 +1,24 @@
 # Message Board
 
-Projeto simples que permite ao usuario adicionar mensagens ao quadro,
+Projeto simples que permite ao usuário adicionar mensagens ao quadro,
 feito para aplicar conhecimento em rotas com express.
 
-## Pre-requisitos
+## Pré-requisitos
 
-Para instalacao e execucao se faz necessario possuir Node.js instalado
+Para instalação e execução se faz necessário possuir Node.js instalado
 em seu computador.
 
-## Instalacao
+## Instalação
+``` 
 
-> npm install
-> DEBUG=message-board:* npm start
+npm install
+
+```
+
+Para executar o projeto utilize
+
+```
+
+DEBUG=message-board:* npm start
+
+```
