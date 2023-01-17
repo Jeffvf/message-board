@@ -10,15 +10,11 @@ em seu computador.
 
 ## Instalação
 ``` 
-
 npm install
-
 ```
 
 Para executar o projeto utilize
 
 ```
-
 DEBUG=message-board:* npm start
-
 ```
